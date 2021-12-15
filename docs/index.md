@@ -42,7 +42,7 @@ Gott dæmi gæti verið vefur sem keyrir WordPress en notar Apache Solr til að 
 * [Nutanix](https://download.nutanix.com/alerts/Security\\\_Advisory\\\_0023.pdf)
 * [F5](https://support.f5.com/csp/article/K19026212)
 * [Fortinet](https://www.fortiguard.com/psirt/FG-IR-21-245)
-* [HPe](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en\\\_US\\&docId=a00120086en\\\_us)
+* [HPe](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_US&docId=hpesbgn04215en_us)
 * [Dell](https://www.dell.com/support/kbdoc/en-is/000194372/dsn-2021-007-dell-response-to-apache-log4j-remote-code-execution-vulnerability)
 * [Cisco](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)
 * [Red Hat](https://access.redhat.com/security/vulnerabilities/RHSB-2021-009)
