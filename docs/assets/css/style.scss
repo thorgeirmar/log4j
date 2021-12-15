@@ -11,3 +11,18 @@
         font-size:1.1rem
     }
 }
+
+.status-ok {
+    color: #4c1;
+    font-weight: bold;
+}
+
+.status-warning {
+    color: #f90;
+    font-weight: bold;
+}
+
+.status-bad {
+    color: #d11;
+    font-weight: bold;
+}
