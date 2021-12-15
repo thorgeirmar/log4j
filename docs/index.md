@@ -39,7 +39,7 @@ Gott dæmi gæti verið vefur sem keyrir WordPress en notar Apache Solr til að 
 ### Ráðleggingar eða yfirlýsingar frá birgjum:
 
 * [Microsoft](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/)
-* [Nutanix](https://download.nutanix.com/alerts/Security\\\_Advisory\\\_0023.pdf)
+* [Nutanix](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)
 * [F5](https://support.f5.com/csp/article/K19026212)
 * [Fortinet](https://www.fortiguard.com/psirt/FG-IR-21-245)
 * [HPe](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_US&docId=hpesbgn04215en_us)
