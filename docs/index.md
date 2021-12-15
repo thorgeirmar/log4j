@@ -38,6 +38,7 @@ Gott dæmi gæti verið vefur sem keyrir WordPress en notar Apache Solr til að 
 
 ### Ráðleggingar eða yfirlýsingar frá birgjum:
 
+* [Amazon](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/)
 * [Microsoft](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/)
 * [Nutanix](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)
 * [F5](https://support.f5.com/csp/article/K19026212)
@@ -52,6 +53,7 @@ Gott dæmi gæti verið vefur sem keyrir WordPress en notar Apache Solr til að 
 * [Atlassian](https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html)
 * [CloudFlare](https://blog.cloudflare.com/cve-2021-44228-log4j-rce-0-day-mitigation/)
 * [Ahsay](https://wiki.ahsay.com/doku.php?id=public:announcement:cve-2021-44228_log4j)
+* [Solarwinds](https://www.solarwinds.com/trust-center/security-advisories/cve-2021-44228)
 
 ## Algengur hugbúnaður á íslandi
 Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur 
@@ -88,10 +90,19 @@ Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur
 | Cisco Webex Meetings | Í lagi | 15.12.21 | Innihélt veikleika, en leyst | |
 | HPE SimpliVity | Berskjaldað | 15.12.21 | HPE vinnur að lausn |
 | HPE StoreServ Management Console (SSMC) All versions | Berskjaldað | 15.12.21 | HPE vinnur að lausn  |
-| HPE Hyper Converged 380 All versions | Berskjaldað | 15.12.21 | HPE vinnur að lausn  |
+| HPE Hyper Converged 380 All versions | Berskjaldað | 15.12.21|| HPE vinnur að lausn  |
 | HPE 3PAR Service Processor All versions | Berskjaldað | 15.12.21 | HPE vinnur að lausn  |
 | Nagios | Í lagi | 15.12.21 | Nagios Core og Nagios XI | https://www.nagios.com/news/2021/12/update-on-apache-log4j-vulnerability/ |
 | 1Password | Óvíst | 15.12.21 | Opinber tilkynning ekki komin, en gefið til kynna að það sé í lagi | https://1password.community/discussion/comment/622615 |
 | Citrix Hypervisor (XenServer) | Í lagi | 15.12.21 | XenServer er í lagi | https://support.citrix.com/article/CTX335705
 | Citrix Virtual Apps and Desktops (XenApp & XenDesktop) | Í skoðun | 15.12.21 | Er í greiningu hjá framleiðanda | https://support.citrix.com/article/CTX335705
 | Ahsay |  | 15.12.21 | AhsayCBS, AhsayOBM, AhsayACB, AhsayUBS 8.5.4.86 (og nýrra) og 7.17.2.2 (með hotfix 7.17.2.127+) og útgáfur undir 6.29.x) í lagi | https://wiki.ahsay.com/doku.php?id=public:announcement:cve-2021-44228_log4j |
+| TimeXtender | 15.12.21 | Í lagi | 15.12.21 | https://support.timextender.com/hc/en-us/articles/4413724826897-Apache-Log4j | 
+| MongoDB Atlas Search | 15.12.21 | Berskjaldað + fix | https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb |
+| MongoDB aðrar vörur | 15.12.21 | Í lagi | |
+| MariaDB | 15.12.21 | Í lagi | https://mariadb.com/resources/blog/log4shell-and-mariadb-cve-2021-44228/ |
+| Amazon S3 | 15.21.21 | Berskjaldað + lagað | |
+| Solarwinds Server & Application Monitor | 15.12.21 | Berskjaldað + fix | https://www.solarwinds.com/trust-center/security-advisories/cve-2021-44228 |
+| Solarwinds Database Performance Analyzer | 15.12.21 | Berskjaldað + fix | https://www.solarwinds.com/trust-center/security-advisories/cve-2021-44228 |
+| Solarwinds Orion Platform | 15.12.21 | Í lagi | |
+
