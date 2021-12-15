@@ -74,3 +74,9 @@ Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur
 | Cisco Catalyst 9100 Series Access Points | Í lagi | 15.12.21 | Cisco catalyst 9100 þráðlausir punktar |
 | Cisco Catalyst 9800 Series Wireless Controllers | Í lagi | 15.12.21 | Cisco Catalyst 9800 þráðlausir controllerar |
 | Cisco IOS Access Points | Í lagi | 15.12.21 | Cisco IOS þráðlausir punktar |
+| HPE SimpliVity | Berskjaldað | 15.12.21 | HPE vinnur að lausn |
+| HPE StoreServ Management Console (SSMC) All versions | Berskjaldað | 15.12.21 | HPE vinnur að lausn  |
+| HPE Hyper Converged 380 All versions | Berskjaldað | 15.12.21 | HPE vinnur að lausn  |
+| HPE 3PAR Service Processor All versions | Berskjaldað | 15.12.21 | HPE vinnur að lausn  |
+
+
