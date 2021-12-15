@@ -78,5 +78,6 @@ Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur
 | HPE StoreServ Management Console (SSMC) All versions | Berskjaldað | 15.12.21 | HPE vinnur að lausn  |
 | HPE Hyper Converged 380 All versions | Berskjaldað | 15.12.21 | HPE vinnur að lausn  |
 | HPE 3PAR Service Processor All versions | Berskjaldað | 15.12.21 | HPE vinnur að lausn  |
+| Nagios | Í lagi | 15.12.21 | Nagios Core og Nagios XI  https://www.nagios.com/news/2021/12/update-on-apache-log4j-vulnerability/
 
 
