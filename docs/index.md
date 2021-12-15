@@ -73,4 +73,4 @@ Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur
 | Cisco Aironet Access Points | Í lagi | 15.12.21 | Cisco aironet þráðlausir punktar |
 | Cisco Catalyst 9100 Series Access Points | Í lagi | 15.12.21 | Cisco catalyst 9100 þráðlausir punktar |
 | Cisco Catalyst 9800 Series Wireless Controllers | Í lagi | 15.12.21 | Cisco Catalyst 9800 þráðlausir controllerar |
-| Cisco IOS Access Points | Í lagi 15.12.21 | Cisco IOS þráðlausir punktar |
+| Cisco IOS Access Points | Í lagi | 15.12.21 | Cisco IOS þráðlausir punktar |
