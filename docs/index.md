@@ -63,6 +63,7 @@ Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur
 | PowerBI          | Í lagi      | 15.12.21 | Microsoft telur að veikleikinn eigi ekki við.           | https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/
 | Minecraft        | Berskjaldað | 15.12.21 | Þarf að uppfæra í 1.18.1. Útgáfur undir 1.7 eru í lagi. | https://help.minecraft.net/hc/en-us/articles/4416199399693-Security-Vulnerability-in-Minecraft-Java-Edition
 | Unifi Controller | Berskjaldað | 15.12.21 | Komið út patch sem þarf að uppfæra í.                   | https://community.ui.com/releases/UniFi-Network-Application-6-5-54/d717f241-48bb-4979-8b10-99db36ddabe1
+| Cisco Webex Meetings Server | Bergskjaldað + fix | 15.12.21 | Komið út fix CWMS-3.0MR4SP2 og CWMS-4.0MR4SP2 (CSCwa47283)| | 
 | Cisco Identity Services Engine (ISE)| Berskjaldað + hotfix | 15.12.21 | Hotfix komið fyrir 2.4, 2.6, 2.7, 3.0 og 3.1 (CSCwa47133) | https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
 | Cisco AnyConnect Secure Mobility Client | Í lagi | 15.12.21 | Anyconnect client er í lagi | 
 | Cisco Meraki | Í lagi | 15.12.21 | GO, MR, MS, MT, MV, MX, SM og Z-series |
@@ -82,6 +83,9 @@ Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur
 | Cisco Duo Security | Í lagi | 15.12.21 | Innihélt veikleika, en leyst | |
 | Cisco Umbrella DNS / SIG | Í lagi | 15.12.21 | Innihélt veikleika en leyst | |
 | Cisco SecureX | Í lagi | 15.12.21 | | 
+| Cisco IOS and IOS XE Software | Í lagi | 15.12.21 | |
+| Cisco IOS XR Software | Í lagi | 15.12.21 | |
+| Cisco Webex Meetings | Í lagi | 15.12.21 | Innihélt veikleika, en leyst | |
 | HPE SimpliVity | Berskjaldað | 15.12.21 | HPE vinnur að lausn |
 | HPE StoreServ Management Console (SSMC) All versions | Berskjaldað | 15.12.21 | HPE vinnur að lausn  |
 | HPE Hyper Converged 380 All versions | Berskjaldað | 15.12.21 | HPE vinnur að lausn  |
