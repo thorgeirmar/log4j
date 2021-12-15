@@ -51,3 +51,13 @@ Gott dæmi gæti verið vefur sem keyrir WordPress en notar Apache Solr til að 
 * [VEEAM](https://forums.veeam.com/veeam-backup-for-azure-f59/log4j-cve-2021-44228-vulnerability-t78225.html#p438231)
 * [Atlassian](https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html)
 * [CloudFlare](https://blog.cloudflare.com/cve-2021-44228-log4j-rce-0-day-mitigation/)
+
+## Algengur hugbúnaður á íslandi
+
+| Hugbúnaður | Staða | Uppfært | Athugasemd | Nánari upplýsingar |
+| ---------- | ----- | ------- | ---------- | ------------------ |
+| Office 365       | Í lagi      | 15.12.21 | Microsoft telur að veikleikinn eigi ekki við.           | https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/
+| Microsoft 365    | Í lagi      | 15.12.21 | Microsoft telur að veikleikinn eigi ekki við.           | https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/
+| PowerBI          | Í lagi      | 15.12.21 | Microsoft telur að veikleikinn eigi ekki við.           | https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/
+| Minecraft        | Berskjaldað | 15.12.21 | Þarf að uppfæra í 1.18.1. Útgáfur undir 1.7 eru í lagi. | https://help.minecraft.net/hc/en-us/articles/4416199399693-Security-Vulnerability-in-Minecraft-Java-Edition
+| Unifi Controller | Berskjaldað | 15.12.21 | Komið út patch sem þarf að uppfæra í.                   | https://community.ui.com/releases/UniFi-Network-Application-6-5-54/d717f241-48bb-4979-8b10-99db36ddabe1
