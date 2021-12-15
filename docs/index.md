@@ -96,13 +96,13 @@ Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur
 | 1Password | Óvíst | 15.12.21 | Opinber tilkynning ekki komin, en gefið til kynna að það sé í lagi | https://1password.community/discussion/comment/622615 |
 | Citrix Hypervisor (XenServer) | Í lagi | 15.12.21 | XenServer er í lagi | https://support.citrix.com/article/CTX335705
 | Citrix Virtual Apps and Desktops (XenApp & XenDesktop) | Í skoðun | 15.12.21 | Er í greiningu hjá framleiðanda | https://support.citrix.com/article/CTX335705
-| Ahsay | 15.12.21 | AhsayCBS, AhsayOBM, AhsayACB, AhsayUBS 8.5.4.86 (og nýrra) og 7.17.2.2 (með hotfix 7.17.2.127+) og útgáfur undir 6.29.x) í lagi | https://wiki.ahsay.com/doku.php?id=public:announcement:cve-2021-44228_log4j |
-| TimeXtender | 15.12.21 | Í lagi | https://support.timextender.com/hc/en-us/articles/4413724826897-Apache-Log4j | 
-| MongoDB Atlas Search | 15.12.21 | Berskjaldað + fix | https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb |
-| MongoDB aðrar vörur | 15.12.21 | Í lagi | | |
-| MariaDB | 15.12.21 | Í lagi | | https://mariadb.com/resources/blog/log4shell-and-mariadb-cve-2021-44228/ |
-| Amazon S3 | 15.21.21 | Berskjaldað + lagað | | |
-| Solarwinds Server & Application Monitor | 15.12.21 | Berskjaldað + fix | | https://www.solarwinds.com/trust-center/security-advisories/cve-2021-44228 |
-| Solarwinds Database Performance Analyzer | 15.12.21 | Berskjaldað + fix | | https://www.solarwinds.com/trust-center/security-advisories/cve-2021-44228 |
-| Solarwinds Orion Platform | 15.12.21 | Í lagi | | |
+| Ahsay | | 15.12.21 | AhsayCBS, AhsayOBM, AhsayACB, AhsayUBS 8.5.4.86 (og nýrra) og 7.17.2.2 (með hotfix 7.17.2.127+) og útgáfur undir 6.29.x) í lagi | https://wiki.ahsay.com/doku.php?id=public:announcement:cve-2021-44228_log4j |
+| TimeXtender | Í lagi | 15.12.21 |  | https://support.timextender.com/hc/en-us/articles/4413724826897-Apache-Log4j | 
+| MongoDB Atlas Search | Berskjaldað + fix | 15.12.21 |  | https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb |
+| MongoDB aðrar vörur | Í lagi | 15.12.21 | | | 
+| MariaDB | Í lagi | 15.12.21 | | | https://mariadb.com/resources/blog/log4shell-and-mariadb-cve-2021-44228/ |
+| Amazon S3 | Berskjaldað + lagað | 15.21.21 |  | |
+| Solarwinds Server & Application Monitor | Berskjaldað + fix | 15.12.21 |  | https://www.solarwinds.com/trust-center/security-advisories/cve-2021-44228 |
+| Solarwinds Database Performance Analyzer | Berskjaldað + fix |  15.12.21 | | https://www.solarwinds.com/trust-center/security-advisories/cve-2021-44228 |
+| Solarwinds Orion Platform | Í lagi | 15.12.21 |  | |
 
