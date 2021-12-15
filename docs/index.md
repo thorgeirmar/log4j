@@ -53,6 +53,7 @@ Gott dæmi gæti verið vefur sem keyrir WordPress en notar Apache Solr til að 
 * [CloudFlare](https://blog.cloudflare.com/cve-2021-44228-log4j-rce-0-day-mitigation/)
 
 ## Algengur hugbúnaður á íslandi
+Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur 
 
 | Hugbúnaður | Staða | Uppfært | Athugasemd | Nánari upplýsingar |
 | ---------- | ----- | ------- | ---------- | ------------------ |
@@ -61,3 +62,15 @@ Gott dæmi gæti verið vefur sem keyrir WordPress en notar Apache Solr til að 
 | PowerBI          | Í lagi      | 15.12.21 | Microsoft telur að veikleikinn eigi ekki við.           | https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/
 | Minecraft        | Berskjaldað | 15.12.21 | Þarf að uppfæra í 1.18.1. Útgáfur undir 1.7 eru í lagi. | https://help.minecraft.net/hc/en-us/articles/4416199399693-Security-Vulnerability-in-Minecraft-Java-Edition
 | Unifi Controller | Berskjaldað | 15.12.21 | Komið út patch sem þarf að uppfæra í.                   | https://community.ui.com/releases/UniFi-Network-Application-6-5-54/d717f241-48bb-4979-8b10-99db36ddabe1
+| Cisco Identity Services Engine (ISE)| Berskjaldað | 15.12.21 | Cisco er að vinna að lausn (CSCwa47133) | https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
+| Cisco AnyConnect Secure Mobility Client | Í lagi | 15.12.21 | Anyconnect client er í lagi | 
+| Cisco Meraki | Í lagi | 15.12.21 | GO, MR, MS, MT, MV, MX, SM og Z-series |
+| Cisco Adaptive Security Appliance (ASA) & ASAv Software | Í lagi | 15.12.21 | ASA eldveggir í lagi | 
+| Cisco Adaptive Security Device Manager | Í lagi | 15.12.21 | ASDM management viðmót í lagi |
+| Cisco Firepower Thread Defense (FTD) managed by Cisco Firepower Management Center | Í lagi | 15.12.21 | |
+| Cisco Firepower Threat Defense (FTD) managed by Firepower Device Manager (FDM) | Berskjaldað | 15.12.21 | Cisco er að vinna að lausn (CSCwa46963) |
+| Cisco Nexus switches | Í lagi | 15.12.21 | Á við um 3000, 5500, 5600, 6000, 7000, 9000 |
+| Cisco Aironet Access Points | Í lagi | 15.12.21 | Cisco aironet þráðlausir punktar |
+| Cisco Catalyst 9100 Series Access Points | Í lagi | 15.12.21 | Cisco catalyst 9100 þráðlausir punktar |
+| Cisco Catalyst 9800 Series Wireless Controllers | Í lagi | 15.12.21 | Cisco Catalyst 9800 þráðlausir controllerar |
+| Cisco IOS Access Points | Í lagi 15.12.21 | Cisco IOS þráðlausir punktar |
