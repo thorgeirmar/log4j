@@ -105,4 +105,4 @@ Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur
 | Solarwinds Server & Application Monitor | Berskjaldað + fix | 15.12.21 |  | https://www.solarwinds.com/trust-center/security-advisories/cve-2021-44228 |
 | Solarwinds Database Performance Analyzer | Berskjaldað + fix |  15.12.21 | | https://www.solarwinds.com/trust-center/security-advisories/cve-2021-44228 |
 | Solarwinds Orion Platform | Í lagi | 15.12.21 |  | |
-
+| Enghouse QMS | Berskjaldað | 16.12.21 | | https://github.com/opinkerfi/log4j/blob/560ff977d620513bf82f4eea15b4d863736bc9b1/docs/EXTERNAL_QMS_Enghouse_Log4j_vulnerability_statement_131221.pdf |
